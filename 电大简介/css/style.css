@@ -935,9 +935,6 @@ h4.b4 {
 .news {
 	padding: 5em 0px;
 }
-.teacher-top h3 {
-	font-size: 2em;
-}
 .map-bottom {
 	margin-top: 2%;
 }
@@ -1094,9 +1091,6 @@ h4.b4 {
 }
 .news-heading h3 {
 	font-size: 1.724em;
-}
-.teacher-top h3 {
-	font-size: 1.9em;
 }
 .news-bottom h4 {
 	font-size: 1.2em;
@@ -1320,8 +1314,8 @@ h4.b4 {
 .teacher-main {
 	margin-top: 2%;
 }
-.teacher-top h3 {
-	font-size: 1.7em;
+.teacher-top{
+	text-align: center;
 }
 .teacher-left h4 {
 	font-size: 17px;
@@ -1548,8 +1542,11 @@ div#bs-example-navbar-collapse-1 {
 .teacher-top h3 {
 	font-size: 1.45em;
 }
-.contact,.additional, .teacher, .over {
+.contact,.additional, .over {
 	padding: 0px 0px 2.5em;
+}
+.teacher{
+	padding: 0 0 6em 0;
 }
 .teacher-left img {
 	width: 50%;
