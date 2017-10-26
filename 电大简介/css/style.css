@@ -457,6 +457,7 @@ ul.nav.navbar-nav {
 /*--teacher-start--*/
 .teacher {
 	padding: 0px 0px 6em;
+	margin-top: 5%;
 }
 .teacher-top h3 {
 	color: rgb(239, 98, 134);
